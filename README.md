@@ -11,7 +11,7 @@ For the source of information, [daft.ie](https://www.daft.ie/) was chosen.
 
 Ireland is facing a major housing crisis for years, the price of houses, apartments and rooms are constantly increasing. This is affecting tenants, a prospective house buyer and landlords. By analyzing daft.ie listings, we want to understand the housing crisis from the perspective of landlords offering rooms on their properties. In order to do that, the following steps are necessary: 
 
-    1. aquire data from daft.ie
+    1. aquire data from daft.ie and load into a database
     2. clean data set and feature engineering
     3. Data Analysis
 
@@ -70,10 +70,12 @@ The dataset created needs to be cleaned in order to create new features and cond
 
 The process is described in [Feature Extraction and Data Cleaning](https://github.com/h-y-vivien/CA-2-Project/blob/main/Feature%20Extraction%20and%20Data%20Cleaning.ipynb)
 
-When the counts of adjectives in each listing were created, the txt files by were used: 
+When the counts of adjectives in each listing were created, the following txt files were used: 
 
 - [english-adjectives.txt](https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913) by [hugsy](https://gist.github.com/hugsy)
 - [Positive-Adjective-List.txt](https://gist.github.com/Xeoncross/5381806b18de1f395187) by [Xeoncross](https://gist.github.com/Xeoncross)
+
+To run the Feature
 
 #### Data Analysis
 The data analysis part is split into 3 different notebooks. Each notebook displays the individual data analysis conducted on the dataset. 
