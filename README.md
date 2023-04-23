@@ -75,7 +75,6 @@ When the counts of adjectives in each listing were created, the following txt fi
 - [english-adjectives.txt](https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913) by [hugsy](https://gist.github.com/hugsy)
 - [Positive-Adjective-List.txt](https://gist.github.com/Xeoncross/5381806b18de1f395187) by [Xeoncross](https://gist.github.com/Xeoncross)
 
-To run the Feature
 
 #### Data Analysis
 The data analysis part is split into 3 different notebooks. Each notebook displays the individual data analysis conducted on the dataset. 
