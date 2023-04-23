@@ -62,6 +62,9 @@ Daft.ie is build in a way, that each listing requires the user to click on the l
 
 The process is described in the [Webscraper Notebook](https://github.com/h-y-vivien/CA-2-Project/blob/main/Webscraper.ipynb)
 
+#### Uploading to a database
+The data was uploaded onto MongoDB. To see how it was done, [click here](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/ArkamShaikh.ipynb)
+
 #### Feature Extraction and Data Cleaning
 The dataset created needs to be cleaned in order to create new features and conduct data analysis. 
 
@@ -101,10 +104,17 @@ pip install plotly
 ##### Deploy interactive map
 To gain access to the map, simply run the [Interactive Mapbox](https://github.com/h-y-vivien/CA-2-Project/blob/main/Mapbox.ipynb) and click on blue link.
 
+![blue link](https://github.com/h-y-vivien/CA-2-Project/blob/main/run_dash.jpg?raw=true)
+
+If done correctly, it should display the following: 
+
+![blue link](https://github.com/h-y-vivien/CA-2-Project/blob/main/rooms on daft.ie.jpg?raw=true)
+
+
 ### Author
-- Hing Yee Vivien Huynh - [Github](https://github.com/h-y-vivien) [Linkedin](https://www.linkedin.com/in/hing-yee-vivien-huynh/)
+- Hing Yee Vivien Huynh - [Github](https://github.com/h-y-vivien) - [Linkedin](https://www.linkedin.com/in/hing-yee-vivien-huynh/)
 
 ## Group members
-- Aoife Murphy - [Github](https://github.com/aoifemurph1) [Linkedin](https://www.linkedin.com/in/aoife-murphy-14b4611a8/y) 
-- Mohd Arkam Shaikh
+- Aoife Murphy - [Github](https://github.com/aoifemurph1) - [Linkedin](https://www.linkedin.com/in/aoife-murphy-14b4611a8/y) 
+- Arkam Shaikh
 
