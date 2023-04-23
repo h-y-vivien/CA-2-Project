@@ -75,8 +75,8 @@ When the counts of adjectives in each listing were created, the txt files by wer
 #### Data Analysis
 The data analysis part is split into 3 different notebooks. Each notebook displays the individual data analysis conducted on the dataset. 
 
-- [by Hing Yee Vivien Huynh](...)
-- [by Aoife Murphy](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/AoifeMurphy.ipynb) ([click to here to see her individual contribution report](...))
+- [by Hing Yee Vivien Huynh](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/Hing%20Yee%20Vivien%20Huynh.ipynb)
+- [by Aoife Murphy](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/AoifeMurphy.ipynb) ([click to here to see her individual contribution report](https://github.com/h-y-vivien/CA-2-Project/blob/main/Aoife_individual_contribution.md))
 - [by Arkam Shaikh](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/ArkamShaikh.ipynb) 
 
 
@@ -100,13 +100,6 @@ pip install plotly
 
 ##### Deploy interactive map
 To gain access to the map, simply run the [Interactive Mapbox](https://github.com/h-y-vivien/CA-2-Project/blob/main/Mapbox.ipynb) and click on blue link.
-
-[run dash](run _dash.jpg)
-
-If done correctly, it should deploy an interactive map: 
-
-[Interactive map](rooms on daft.ie.png)
-
 
 ### Author
 - Hing Yee Vivien Huynh - [Github](https://github.com/h-y-vivien) [Linkedin](https://www.linkedin.com/in/hing-yee-vivien-huynh/)
