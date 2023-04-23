@@ -100,16 +100,8 @@ pip install dash
 pip install plotly
        
 ```
-
 ##### Deploy interactive map
 To gain access to the map, simply run the [Interactive Mapbox](https://github.com/h-y-vivien/CA-2-Project/blob/main/Mapbox.ipynb) and click on blue link.
-
-![blue link](https://github.com/h-y-vivien/CA-2-Project/blob/main/run_dash.jpg?raw=true)
-
-If done correctly, it should display the following: 
-
-![blue link](https://github.com/h-y-vivien/CA-2-Project/blob/main/rooms on daft.ie.jpg?raw=true)
-
 
 ### Author
 - Hing Yee Vivien Huynh - [Github](https://github.com/h-y-vivien) - [Linkedin](https://www.linkedin.com/in/hing-yee-vivien-huynh/)
