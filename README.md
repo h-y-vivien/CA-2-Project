@@ -76,8 +76,8 @@ When the counts of adjectives in each listing were created, the txt files by wer
 The data analysis part is split into 3 different notebooks. Each notebook displays the individual data analysis conducted on the dataset. 
 
 - [by Hing Yee Vivien Huynh](...)
-- [by Aoife Murphy](....) [click to here to see her individual contribution report](...)
-- [by Arkam Shaikh](...) 
+- [by Aoife Murphy](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/AoifeMurphy.ipynb) ([click to here to see her individual contribution report](...))
+- [by Arkam Shaikh](https://github.com/h-y-vivien/CA-2-Project/blob/main/Data%20Analysis/ArkamShaikh.ipynb) 
 
 
 ### About the Interactive Mapbox 
@@ -101,11 +101,11 @@ pip install plotly
 ##### Deploy interactive map
 To gain access to the map, simply run the [Interactive Mapbox](https://github.com/h-y-vivien/CA-2-Project/blob/main/Mapbox.ipynb) and click on blue link.
 
-![run dash](run _dash.jpg)
+[run dash](run _dash.jpg)
 
 If done correctly, it should deploy an interactive map: 
 
-![Interactive map](rooms on daft.ie.png)
+[Interactive map](rooms on daft.ie.png)
 
 
 ### Author
